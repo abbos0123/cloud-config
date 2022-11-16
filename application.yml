@@ -1,8 +1,0 @@
-server.port: 8081
-
-db:
-  connection: http://localhost:5432/db/demo
-  port: 1300
-  des: description-of-db here
-  name: name-of-db
-  host: 2345
